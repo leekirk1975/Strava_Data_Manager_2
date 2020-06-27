@@ -4,7 +4,7 @@
 Git ignore
 #directories
 venv/
-Data/
+data/
 bin/
 lib/
 .idea/
